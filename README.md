@@ -1,5 +1,12 @@
 # diablo3
 
+## Acerca del Repositorio
+Curso Avanzado de Vue.js impartido por [@baumannzone](https://github.com/baumannzone) con el objetivo de desarrollar un buscador de Perfiles de Diablo 3.
+
+A direferencia del proyecto original, este ha sido escrito utilizando [PUG](https://pugjs.org/) para facilitar su legibilidad y reducir líneas de codigo.
+
+Y se añadido algunos Tooltips de Boostrap.
+
 ## Project setup
 ```
 npm install
